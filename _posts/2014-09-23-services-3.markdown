@@ -2,6 +2,6 @@
 layout: default
 img: treinamento.png
 category: Services
-title:  Treinamento
+title:  Cursos e treinamento
 description: |
 ---
