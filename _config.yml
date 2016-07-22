@@ -24,9 +24,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: github
-    url: https://github.com/estatup
-  - title: facebook 
+   - title: facebook 
     url: http://facebook.com/
   - title: envelope
     url: mailto:estatup.consultoria@gmail.com
