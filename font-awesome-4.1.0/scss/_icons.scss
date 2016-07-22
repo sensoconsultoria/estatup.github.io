@@ -1,7 +1,7 @@
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 
-.#{$fa-css-prefix}-e-mail:before { content: $fa-var-e-mail; }
+
 .#{$fa-css-prefix}-glass:before { content: $fa-var-glass; }
 .#{$fa-css-prefix}-music:before { content: $fa-var-music; }
 .#{$fa-css-prefix}-search:before { content: $fa-var-search; }
@@ -417,7 +417,7 @@
 .#{$fa-css-prefix}-plus-square-o:before { content: $fa-var-plus-square-o; }
 .#{$fa-css-prefix}-space-shuttle:before { content: $fa-var-space-shuttle; }
 .#{$fa-css-prefix}-slack:before { content: $fa-var-slack; }
-.#{$fa-css-prefix}-envelope-square:before { content: $fa-var-envelope-square; }
+.#{$fa-css-prefix}-e-mail:before { content: $fa-var-envelope-square; }
 .#{$fa-css-prefix}-wordpress:before { content: $fa-var-wordpress; }
 .#{$fa-css-prefix}-openid:before { content: $fa-var-openid; }
 .#{$fa-css-prefix}-institution:before,
