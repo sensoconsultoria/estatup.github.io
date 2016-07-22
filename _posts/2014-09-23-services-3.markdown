@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: treinamento.png
 category: Services
 title:  Treinamento
 description: |
