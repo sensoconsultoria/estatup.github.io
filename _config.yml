@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: estatup.github.io
-title: Estatup - Consultoria estatística
+title: Home
 email: estatup.consultoria@gmail.com
 author: Estatup
 description: Consultoria estatística 
@@ -29,4 +29,4 @@ social:
   - title: facebook 
     url: 
   - title: envelope
-    url: 
+    url: <a href="estatup.consultoria@gmail.com"</a>
