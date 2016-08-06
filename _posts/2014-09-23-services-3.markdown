@@ -9,10 +9,17 @@ Oferecemos materiais didáticos próprios, com teoria e prática. Os alunos term
 
 Alguns dos nossos cursos:
 
-- Controle Estatístico de Processo;
+- Introdução ao Software R;
 
-- Planejamento de Experimentos;
+- Controle Estatístico de Processo;
 
 - Teoria da Resposta ao Item;
 
-- Machine Learning, dentre outros.
+- Planejamento de Experimentos;
+
+- Estruturação e apresentação de dados no Excel;
+
+- Machine Learning;
+
+- Modelagem Estatística.
+
