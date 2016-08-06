@@ -5,3 +5,12 @@ category: Services
 title:  Cursos e treinamento
 description: |
 ---
+Oferecemos materiais didáticos próprios, com teoria e prática. Os alunos terminam o curso com conhecimento, não somente da metodologia estatística, mas também da linguagem de programação definida. Alguns dos nossos cursos:
+
+- Controle Estatístico de Processo;
+
+- Planejamento de Experimentos;
+
+- Teoria da Resposta ao Item;
+
+- Machine Learning, dentre outros.
