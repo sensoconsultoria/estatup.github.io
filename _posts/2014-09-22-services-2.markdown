@@ -5,4 +5,10 @@ category: Services
 title: Aulas particulares
 description: |
 ---
-Aulas individuais ou em pequenos grupos, dos mais variados assuntos: Estatística Básica, Regressão, Análise Multivariada, Planejamento de Experimento, Machine Learning etc., com material teórico e exercícios complementares.
+Aulas individuais ou em pequenos grupos, com material teórico e exercícios complementares para os mais variados assuntos: 
+ - Estatística Básica;
+ - Regressão;
+ - Análise Multivariada;
+ - Planejamento de Experimento;
+ - Machine Learning etc.
+ 
