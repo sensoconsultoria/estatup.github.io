@@ -5,6 +5,8 @@ category: Services
 title: Análise de dados
 description: |
 ---
-Em qualquer campo da pesquisa (seja no meio acadêmico ou corporativo), coletar e armazenar informação através dos dados é essencial. Nosso trabalho é transformar simples dados em conhecimento.
+Em qualquer campo da pesquisa (seja no meio acadêmico ou corporativo), coletar e armazenar informação através dos dados é essencial. Nosso trabalho é transformar simples dados em conhecimento!
 
 Contamos com uma equipe de consultores (docentes) e analistas atualizados com o avanço da tecnologia da análise de dados, ampliando o alcance do projeto.
+
+
