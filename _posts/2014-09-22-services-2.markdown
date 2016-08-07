@@ -5,7 +5,7 @@ category: Services
 title: Aulas particulares
 description: |
 ---
-Com material teórico e exercícios complementares, ministramos aulas individuais ou em pequenos grupos dos mais variados assuntos: 
+Com material teórico e exercícios complementares, ministramos aulas individuais (ou em pequenos grupos) dos mais variados assuntos: 
 
  - Estatística Básica;
  
