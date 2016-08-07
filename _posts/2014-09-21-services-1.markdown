@@ -7,4 +7,4 @@ description: |
 ---
 Em qualquer campo da pesquisa (seja no meio acadêmico ou corporativo), coletar e armazenar informação através dos dados é essencial. Nosso trabalho é transformar simples dados em conhecimento.
 
-Contamos com uma equipe de consultores (docentes) e analistas atualizados com crescimento da tecnologia e análise de dados, ampliando o alcance do projeto de pesquisa. 
+Contamos com uma equipe de consultores (docentes) e analistas atualizados com o avanço da tecnologia da análise de dados, ampliando o alcance do projeto.
