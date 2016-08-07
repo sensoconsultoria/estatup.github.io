@@ -5,7 +5,7 @@ category: Services
 title:  Cursos e treinamento
 description: |
 ---
-Desenvolvimento de cursos personalizados de acordo com a necessidade da turma. 
+Desenvolvemos cursos personalizados de acordo com a necessidade da turma. 
 
 Os alunos aprendem não somente a metodologia estatística, mas também os códigos da programação.
 
