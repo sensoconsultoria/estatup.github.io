@@ -5,4 +5,4 @@ category: Services
 title: Análise de dados
 description: |
 ---
-  Texto
+Em qualquer campo (seja no meio acadêmico ou corporativo), coletar e armazenar informação através dos dados tornou-se essencial. Nosso trabalho é transformar esses dados em conhecimento.
