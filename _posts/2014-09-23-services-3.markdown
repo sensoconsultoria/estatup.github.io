@@ -11,17 +11,18 @@ Os alunos aprendem não somente a metodologia estatística, mas também os códi
 
 Alguns dos nossos cursos:
 
+- Machine Learning;
+
 - Introdução ao Software R;
 
-- Controle Estatístico de Processo;
+- Modelagem Estatística;
 
 - Teoria da Resposta ao Item;
 
 - Planejamento de Experimentos;
 
-- Estruturação e apresentação de dados no Excel;
 
-- Machine Learning;
 
-- Modelagem Estatística.
+
+
 
