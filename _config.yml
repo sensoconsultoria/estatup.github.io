@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: estatup.github.io
+url: sensoconsultoria.github.io
 title: Home
-email: estatup.consultoria@gmail.com
-author: Estatup
+email: sensocursos@gmail.com
+author: Senso
 description: Consultoria estatística 
  
-copyright: 'Copyright &copy; 2016 Estatup. All Rights Reserved.'
+copyright: 'Copyright &copy; 2016 Senso. All Rights Reserved.'
 credits: 'Credits: Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -26,7 +26,7 @@ permalink: pretty
 social:
 
   - title: facebook 
-    url: https://www.facebook.com/estatup/?fref=ts
+    url: https://www.facebook.com
   - title: envelope
-    url: mailto:estatup.consultoria@gmail.com
+    url: mailto:sensocursos@gmail.com
 
